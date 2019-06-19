@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EComm.Web", "EComm.Web\EComm.Web.csproj", "{5D4267DC-F378-4778-B26F-1AD6A5662F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EComm.Model", "EComm.Model\EComm.Model.csproj", "{02845BAA-5ABB-4BD5-9908-950A62D1E03A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EComm.DataAccess", "EComm.DataAccess\EComm.DataAccess.csproj", "{6F73764E-A26A-45FD-8858-195D0EB6EC22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4267DC-F378-4778-B26F-1AD6A5662F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4267DC-F378-4778-B26F-1AD6A5662F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4267DC-F378-4778-B26F-1AD6A5662F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4267DC-F378-4778-B26F-1AD6A5662F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02845BAA-5ABB-4BD5-9908-950A62D1E03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02845BAA-5ABB-4BD5-9908-950A62D1E03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02845BAA-5ABB-4BD5-9908-950A62D1E03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02845BAA-5ABB-4BD5-9908-950A62D1E03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F73764E-A26A-45FD-8858-195D0EB6EC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F73764E-A26A-45FD-8858-195D0EB6EC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F73764E-A26A-45FD-8858-195D0EB6EC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F73764E-A26A-45FD-8858-195D0EB6EC22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ecomm.web:
+    image: ${DOCKER_REGISTRY-}ecomm
+    build:
+      context: .
+      dockerfile: EComm.Web/Dockerfile
